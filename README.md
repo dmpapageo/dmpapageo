@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **becoming a programming ninja**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Prompt Engineering and React**
 
 - 👯 I’m looking to collaborate on **Web3 projects**
 
