@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimitrios</h1>
-<h3 align="center">A QA Engineer passionate about delivering quality products fast!</h3>
+<h3 align="center">An Engineer passionate about delivering quality products fast!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmpapageo&label=Profile%20views&color=0e75b6&style=flat" alt="dmpapageo" /> </p>
 
